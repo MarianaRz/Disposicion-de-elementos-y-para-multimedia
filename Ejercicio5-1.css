@@ -1,0 +1,8 @@
+.copa-mundial-de-futbol-qatar-2022 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pais {
+    width: 300px;
+}
